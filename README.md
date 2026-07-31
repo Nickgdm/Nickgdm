@@ -86,10 +86,8 @@ QA Engineer focado em qualidade de software, testes manuais e automação de tes
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
 />              
-
 <br/>
 <br/>
-
 ### 📊 Estatísticas
 
 <p align="left">
