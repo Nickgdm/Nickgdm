@@ -28,16 +28,9 @@ QA Engineer focado em qualidade de software, testes manuais e automação de tes
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
-<img 
-    align="left" 
-    alt="Cypress"
-    title="Cypress" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="" 
@@ -69,15 +62,13 @@ QA Engineer focado em qualidade de software, testes manuais e automação de tes
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitActios" 
-    title="GitActios"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
-/>          
+/>       
+            
+<br/>
+<br/>
+
+###  Ferramentas
+
 <img 
     align="left" 
     alt="Jenkins" 
@@ -85,9 +76,29 @@ QA Engineer focado em qualidade de software, testes manuais e automação de tes
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
-/>              
+/>  
+
+<img 
+    align="left" 
+    alt="Cypress"
+    title="Cypress" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitActios" 
+    title="GitActios"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
+/>   
+
 <br/>
 <br/>
+
 ### 📊 Estatísticas
 
 <p align="left">
