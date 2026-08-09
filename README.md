@@ -4,7 +4,7 @@
 
 # Sobre mim
 
-Me chamo Nícollas Gonçalves de Moraes, tenho 21 anos e sou natural do Tocantins. 
+Me chamo Nícollas Gonçalves de Moraes, tenho 22 anos e sou natural do Tocantins. 
 
 QA Engineer focado em qualidade de software, testes manuais e automação de testes. Possuo experiência com Cypress, JavaScript, testes de API REST, Postman, BDD (Gherkin/Cucumber), Git, GitHub e GitHub Actions.
 
