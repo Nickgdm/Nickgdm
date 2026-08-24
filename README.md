@@ -28,7 +28,13 @@ QA Engineer focado em qualidade de software, testes manuais e automação de tes
         <img 
             alt="Conexões" 
             title="Me siga no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Nickgdm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+        />
+    </a>
+    <a href="mailto:nicollasgoncalvesdemoraes@gmail.com">
+        <img
+            title="Meu e-mail profissional" 
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
         />
     </a>
 </p>
