@@ -24,6 +24,13 @@ QA Engineer focado em qualidade de software, testes manuais e automação de tes
             src="https://custom-icon-badges.demolab.com/github/stars/Nickgdm?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+    <a href="https://www.linkedin.com/in/nícollas-gonçalves-265b25267/">
+        <img 
+            alt="Conexões" 
+            title="Me siga no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Nickgdm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
