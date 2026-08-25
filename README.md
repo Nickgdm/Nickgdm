@@ -117,14 +117,3 @@ QA Engineer focado em qualidade de software, testes manuais e automação de tes
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nickgdm&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickgdm&layout=compact&theme=tokyonight" />
-</p>
-
