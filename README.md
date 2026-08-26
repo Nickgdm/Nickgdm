@@ -10,20 +10,6 @@ Atualmente, venho desenvolvendo meus conhecimentos principalmente em **Cypress, 
 
 ---
 
-## 🧪 QA & Testes
-
-* Testes funcionais
-* Testes de regressão
-* Testes de API REST
-* Automação de testes
-* BDD / Gherkin / Cucumber
-* Testes de performance
-* Validação de respostas e status HTTP
-* Criação de cenários de teste
-* Relatórios de testes
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <p>
@@ -88,34 +74,18 @@ Atualmente, venho desenvolvendo meus conhecimentos principalmente em **Cypress, 
 
 ---
 
-## 📊 Testes de Performance
+## 🧪 Áreas de Conhecimento
 
-Também venho desenvolvendo conhecimentos em **testes de performance**, utilizando ferramentas como:
-
-* **Apache JMeter**
-* **k6**
-* Testes de carga
-* Testes de estresse
-* Testes de resistência (Soak Test)
-* Thresholds
-* Métricas de performance
-* Análise de tempo de resposta
-* Relatórios de execução
-
----
-
-## ⚙️ CI/CD e DevOps
-
-Experiência prática com:
-
-* **Git**
-* **GitHub**
-* **GitHub Actions**
-* **Jenkins**
-* **Docker**
-* **Docker Compose**
-* Integração de testes em pipelines
-* Execução automatizada de testes
+|        🧪 QA & Testes       |   📊 Testes de Performance   |   ⚙️ CI/CD & DevOps   |
+| :-------------------------: | :--------------------------: | :-------------------: |
+|      Testes funcionais      |         Apache JMeter        |          Git          |
+|     Testes de regressão     |              k6              |         GitHub        |
+|      Testes de API REST     |        Testes de carga       |     GitHub Actions    |
+|     Automação de testes     |      Testes de estresse      |        Jenkins        |
+|   BDD / Gherkin / Cucumber  |     Testes de resistência    |         Docker        |
+| Validação de respostas HTTP |          Thresholds          |     Docker Compose    |
+|     Criação de cenários     |    Métricas de performance   |    Pipelines CI/CD    |
+|     Relatórios de testes    | Análise de tempo de resposta | Execução automatizada |
 
 ---
 
