@@ -20,7 +20,7 @@ Atualmente, venho desenvolvendo meus conhecimentos principalmente em **Cypress, 
   <img alt="Cucumber" title="Cucumber" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" />
   <!-- APIs & Performance -->
   <img alt="Postman" title="Postman" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img alt="Apache JMeter" title="Apache JMeter" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jmeter/jmeter-original.svg" />
+  <img alt="Apache JMeter" title="Apache JMeter" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
   <!-- DevOps & Controle de Versão -->
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
@@ -30,10 +30,10 @@ Atualmente, venho desenvolvendo meus conhecimentos principalmente em **Cypress, 
   <!-- Bancos de Dados -->
   <img alt="MongoDB" title="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <!-- Mobile & IA -->
-  <img alt="Appium" title="Appium" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appium/appium-original.svg" />
+  <img alt="Appium" title="Appium" width="40" src="https://devicons.io/devicons/icons/appium.svg" />
   <img alt="Android" title="Android" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-  <img alt="Apple" title="iOS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
-  <img alt="GitHub Copilot" title="GitHub Copilot" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/copilot/copilot-original.svg" />
+  <img alt="Apple" title="iOS" width="40" src="https://devicons.io/devicons/icons/apple.svg" />
+  <img alt="GitHub Copilot" title="GitHub Copilot" width="40" src="https://devicons.io/devicons/icons/github-copilot.svg" />
 </p>
 
 ---
