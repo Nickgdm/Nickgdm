@@ -64,10 +64,4 @@ Atualmente, venho desenvolvendo meus conhecimentos principalmente em **Cypress, 
 
 ---
 
-### 🎯 Objetivo
-
-Busco oportunidades na área de **Quality Assurance**, especialmente em posições de **QA, Analista de Testes e QA Automation**, onde eu possa aplicar meus conhecimentos, contribuir com a qualidade dos produtos e continuar evoluindo profissionalmente.
-
----
-
 ⭐ Obrigado por visitar meu perfil!
