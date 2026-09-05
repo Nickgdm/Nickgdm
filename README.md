@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=220&section=header&text=Nícollas%20Gonçalves&fontSize=42&fontColor=ffffff&desc=QA%20Engineer%20%20•%20%20Testes%20de%20Software%20%20•%20%20Automação&descSize=16&descAlignTop=80" width="100%" />
-</div>
-
 Olá! Sou profissional de **Quality Assurance**, com foco em **qualidade de software, testes manuais e automação de testes**.
 
 Tenho experiência prática com criação e execução de testes, automação de cenários, testes de API e integração de testes em pipelines de CI/CD.
