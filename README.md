@@ -1,8 +1,10 @@
 Olá! Sou profissional de **Quality Assurance**, com foco em **qualidade de software, testes manuais e automação de testes**.
 
-Tenho experiência prática com criação e execução de testes, automação de cenários, testes de API e integração de testes em pipelines de CI/CD.
+Tenho prática em atividades de criação e execução de testes, automação de cenários, testes de API e integração de testes em pipelines de CI/CD.
 
-Atualmente, venho desenvolvendo meus conhecimentos principalmente em **Cypress, JavaScript, testes de API, BDD e testes de performance**, buscando evoluir continuamente na área de QA.
+Venho aprofundando meus conhecimentos em **Cypress, JavaScript, testes de API, BDD, testes de performance e práticas de DevOps**, com foco em desenvolver soluções de teste claras, reproduzíveis e bem documentadas.
+
+🔎 **[Confira meu portfólio de projetos de QA](https://github.com/Nickgdm/qa-toolbox)** para explorar atividades, ferramentas e instruções de execução.
 
 ---
 
