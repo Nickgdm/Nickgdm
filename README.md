@@ -29,7 +29,7 @@ Venho aprofundando meus conhecimentos em **Cypress, JavaScript, testes de API, B
   <!-- Mobile & IA -->
   <img alt="Appium" title="Appium" width="40" src="https://devicons.io/devicons/icons/appium.svg" />
   <img alt="Android" title="Android" width="40" src="https://devicons.io/devicons/icons/android.svg" />
-  <img alt="GitHubCopilot" title="GitHubCopilot" width="40" src="https://devicons.io/search/?q=copilot&icon=github-copilot" />
+  <img alt="GitHubCopilot" title="GitHubCopilot" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcopilot/githubcopilot-original-wordmark.svg" />
 </p>
 
 ---
