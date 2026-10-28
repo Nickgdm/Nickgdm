@@ -141,7 +141,5 @@ Utilizo este perfil para apresentar meus projetos, documentar aprendizados e dem
 
 
 <pre>
-╔═════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                  ⭐ Obrigado por visitar meu perfil! ⭐                                ║
-╚═════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+                                            ⭐ Obrigado por visitar meu perfil! ⭐
 </pre>
