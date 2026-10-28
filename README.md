@@ -56,16 +56,16 @@ Tenho prática em atividades de criação e execução de testes, automação de
       <br><br>
       <!-- Postman -->
       <img src="https://devicons.io/devicons/icons/postman-icon.svg"
-           alt="Postman" width="30" height="30">
+           alt="Postman" width="35" height="35">
       <!-- Apache JMeter -->
       <img src="https://devicons.io/devicons/icons/apache.svg"
-           alt="Apache JMeter" width="30" height="30">
+           alt="Apache JMeter" width="35" height="35">
       <!-- Dbeaver -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
-           alt="Dbeaver" width="30" height="30">
+           alt="Dbeaver" width="35" height="35">
       <!-- MongoDB -->
       <img src="https://devicons.io/devicons/icons/mongodb-icon.svg"
-           alt="MongoDB" width="30" height="30">
+           alt="MongoDB" width="35" height="35">
     </td>
     <!-- COLUNA 4: DEVOPS E CI/CD -->
     <td align="center" valign="top" width="20%">
@@ -73,16 +73,16 @@ Tenho prática em atividades de criação e execução de testes, automação de
       <br><br>
       <!-- Git -->
       <img src="https://devicons.io/devicons/icons/git-icon.svg"
-           alt="Git" width="30" height="30">
+           alt="Git" width="35" height="35">
       <!-- GitHub Actions -->
       <img src="https://devicons.io/devicons/icons/github-actions.svg"
-           alt="GitHub Actions" width="30" height="30">
+           alt="GitHub Actions" width="35" height="35">
       <!-- Jenkins -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
-           alt="Jenkins" width="30" height="30">
+           alt="Jenkins" width="35" height="35">
       <!-- Docker -->
       <img src="https://devicons.io/devicons/icons/docker-icon.svg"
-           alt="Docker" width="30" height="30">
+           alt="Docker" width="35" height="35">
     </td>
      <!-- COLUNA 5: IA -->
     <td align="center" valign="top" width="20%">
@@ -90,13 +90,13 @@ Tenho prática em atividades de criação e execução de testes, automação de
       <br><br>
       <!-- GitHub Copilot -->
       <img src="https://img.icons8.com/?size=100&id=Yl9ip6CjqAEI&format=png&color=000000"
-           alt="GitHub Copilot" width="30" height="30">
+           alt="GitHub Copilot" width="35" height="35">
       <!-- Claude -->
       <img src="https://devicons.io/devicons/icons/claude-icon.svg"
-           alt="Claude" width="30" height="30">
+           alt="Claude" width="35" height="35">
       <!-- Codex -->
       <img src="https://devicons.io/devicons/icons/codex-icon.svg"
-           alt="Codex" width="30" height="30">
+           alt="Codex" width="35" height="35">
       <!-- Gemini Notebook -->
       <img src="https://devicons.io/devicons/icons/google-notebooklm-icon.svg"
            alt="Gemini Notebook" width="30" height="30">
