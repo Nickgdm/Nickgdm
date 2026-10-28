@@ -1,16 +1,16 @@
 <div align="center">
-
+  
 # Nícollas Gonçalves de Moraes
-
-### Quality Assurance | Testes de Software | Automação de Testes
+### Quality Assurance Engineer | Testes de Software | Automação de Testes
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicollasgoncalvesdemoraes@gmail.com)
 [![Portfólio QA](https://img.shields.io/badge/Portf%C3%B3lio-E67E22?style=for-the-badge)](https://github.com/Nickgdm/qa-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollasgoncalvesqa/)
 </div>
-Engenheiro de Qualidade de Software, com foco em **qualidade de software, testes manuais e automação de testes**.
-Tenho prática em atividades de criação e execução de testes, automação de cenários, testes de API e integração de testes em pipelines de CI/CD.
 
+Profissional de Quality Assurance (QA), com formação concluída em Qualidade de Software pela EBAC e foco em testes manuais e automação de testes.
+Meus estudos e projetos incluem testes funcionais, regressão, API, testes exploratórios e integração, além de conhecimentos em automação de testes, bancos de dados e práticas de integração contínua.
 
+Utilizo este perfil para apresentar meus projetos, documentar aprendizados e demonstrar minhas competências em Qualidade de Software.
 
 <h2>Tecnologias, Ferramentas e Linguagens</h2>
 
@@ -99,42 +99,49 @@ Tenho prática em atividades de criação e execução de testes, automação de
            alt="Codex" width="35" height="35">
       <!-- Gemini Notebook -->
       <img src="https://devicons.io/devicons/icons/google-notebooklm-icon.svg"
-           alt="Gemini Notebook" width="30" height="30">
+           alt="Gemini Notebook" width="35" height="35">
     </td>
   </tr>
 </table>
 
+## Competências em QA
 
-## 🧪 Áreas de Conhecimento & Especializações
+| QA e Testes | Performance | CI/CD e DevOps | Mobile e Unidade | Dados e IA |
+|---|---|---|---|---|
+| Testes funcionais | Testes de carga | Controle de versão | Testes mobile | SQL |
+| Testes de regressão | Testes de estresse | Integração contínua | Testes unitários | NoSQL |
+| Testes exploratórios | Métricas de desempenho | Pipelines de CI/CD | Automação mobile | Engenharia de prompts |
+| Testes de API REST | Análise de resultados | Execução automatizada | Testes com Jest | IA aplicada a QA |
+| BDD e Gherkin | Validação de resultados | Relatórios de execução | Emuladores Android | Assistentes de IA |
 
-| 🧪 QA & Testes | 📊 Performance | ⚙️ CI/CD & DevOps | 📱 Mobile & Unidade | 🤖 Gestão, DB & IA |
-| :--- | :--- | :--- | :--- | :--- |
-| Testes funcionais | Apache JMeter | Git / GitHub | Testes Mobile Android | Banco de Dados SQL |
-| Testes de regressão | k6 | GitHub Actions | Testes Mobile iOS | MongoDB (NoSQL) |
-| Testes de API REST | Testes de carga | Jenkins | Appium & WebdriverIO | Métricas de Qualidade |
-| Automação (Cypress) | Testes de estresse | Docker | Testes de Unidade | Prompt Engineering |
-| BDD / Gherkin | Testes de resistência | Docker Compose | Jest (Caixa Branca) | GitHub Copilot |
-| Respostas HTTP | Thresholds | Pipelines CI/CD | Setup em Emuladores | IA Aplicada a QA |
-| Relatórios de testes | Métricas de tempo | Allure Report | Device Farm | IA Generativa Offline |
+<h2>Estatísticas do GitHub</h2>
 
----
-## 📊 Estatísticas
-
-![fabioaraujoqa's Stats](https://github-readme-stats.vercel.app/api?username=nickgdm&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
----
-<img alt="Linguagens mais utilizadas" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nickgdm&layout=pie&langs_count=8&size_weight=0.5&count_weight=0.5&theme=transparent">
-
---- 
-## 📫 Contato
-
-<div align="left">
-
-
-
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="55%">
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=Nickgdm&show_icons=true&locale=pt-br&theme=transparent&hide_border=true&title_color=E67E22&icon_color=E67E22&text_color=C9D1D9&include_all_commits=true"
+          alt="Estatísticas do GitHub"
+          height="200"
+        />
+      </td>
+      <td align="center" width="45%">
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nickgdm&layout=donut&langs_count=6&size_weight=0.3&count_weight=0.5&theme=transparent&hide_border=true&title_color=E67E22&text_color=C9D1D9&card_width=320&locale=pt-br"
+          alt="Linguagens mais usadas"
+          height="200"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
 
-⭐ Obrigado por visitar meu perfil!
+
+
+<pre>
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                  ⭐ Obrigado por visitar meu perfil! ⭐                                ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
