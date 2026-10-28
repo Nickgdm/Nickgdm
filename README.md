@@ -46,17 +46,17 @@ Tenho prática em atividades de criação e execução de testes, automação de
       <!-- Cucumber -->
       <img src="https://devicons.io/devicons/icons/cucumber.svg"
            alt="Cucumber" width="30" height="30">
-      <!-- Postman -->
-      <img src="https://devicons.io/devicons/icons/postman-icon.svg"
-           alt="Postman" width="30" height="30">
       <!-- Appium -->
       <img src="https://devicons.io/devicons/icons/appium.svg"
            alt="Appium" width="30" height="30">
     </td>
-    <!-- COLUNA 3: PERFORMANCE E DADOS -->
+    <!-- COLUNA 3: API, PERFORMANCE E DADOS -->
     <td align="center" valign="top" width="20%">
-      <strong>Performance e Dados</strong>
+      <strong>API, Performance e Dados</strong>
       <br><br>
+      <!-- Postman -->
+      <img src="https://devicons.io/devicons/icons/postman-icon.svg"
+           alt="Postman" width="30" height="30">
       <!-- Apache JMeter -->
       <img src="https://devicons.io/devicons/icons/apache.svg"
            alt="Apache JMeter" width="30" height="30">
@@ -86,7 +86,7 @@ Tenho prática em atividades de criação e execução de testes, automação de
     </td>
      <!-- COLUNA 5: IA -->
     <td align="center" valign="top" width="20%">
-      <strong>IA's</strong>
+      <strong>Inteligência Artificial</strong>
       <br><br>
       <!-- GitHub Copilot -->
       <img src="https://img.icons8.com/?size=100&id=Yl9ip6CjqAEI&format=png&color=000000"
