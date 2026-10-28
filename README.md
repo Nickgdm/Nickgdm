@@ -50,9 +50,9 @@ Tenho prática em atividades de criação e execução de testes, automação de
       <img src="https://devicons.io/devicons/icons/appium.svg"
            alt="Appium" width="30" height="30">
     </td>
-    <!-- COLUNA 3: API, PERFORMANCE E DADOS -->
+    <!-- COLUNA 3: API, CARGA E DADOS -->
     <td align="center" valign="top" width="20%">
-      <strong>API, Performance e Dados</strong>
+      <strong>API, Carga e Dados</strong>
       <br><br>
       <!-- Postman -->
       <img src="https://devicons.io/devicons/icons/postman-icon.svg"
@@ -67,9 +67,9 @@ Tenho prática em atividades de criação e execução de testes, automação de
       <img src="https://devicons.io/devicons/icons/mongodb-icon.svg"
            alt="MongoDB" width="30" height="30">
     </td>
-    <!-- COLUNA 4: DEVOPS E ECOSSISTEMA -->
+    <!-- COLUNA 4: DEVOPS E CI/CD -->
     <td align="center" valign="top" width="20%">
-      <strong>DevOps e Ecossistema</strong>
+      <strong>DevOps e CI/CD</strong>
       <br><br>
       <!-- Git -->
       <img src="https://devicons.io/devicons/icons/git-icon.svg"
