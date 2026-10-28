@@ -22,16 +22,16 @@ Tenho prática em atividades de criação e execução de testes, automação de
       <br><br>
       <!-- JavaScript -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-           alt="JavaScript" width="30" height="30">
+           alt="JavaScript" width="35" height="35">
       <!-- Python -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-           alt="Python" width="30" height="30">
+           alt="Python" width="35" height="35">
       <!-- HTML5 -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-           alt="HTML5" width="30" height="30">
+           alt="HTML5" width="35" height="35">
       <!-- CSS3 -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-           alt="CSS3" width="30" height="30">
+           alt="CSS3" width="35" height="35">
     </td>
     <!-- COLUNA 2: TESTES E AUTOMAÇÃO -->
     <td align="center" valign="top" width="20%">
@@ -39,16 +39,16 @@ Tenho prática em atividades de criação e execução de testes, automação de
       <br><br>
       <!-- Cypress -->
       <img src="https://devicons.io/devicons/icons/cypress-icon.svg"
-           alt="Cypress" width="30" height="30">
+           alt="Cypress" width="35" height="35">
       <!-- Jest -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-           alt="Jest" width="30" height="30">
+           alt="Jest" width="35" height="35">
       <!-- Cucumber -->
       <img src="https://devicons.io/devicons/icons/cucumber.svg"
-           alt="Cucumber" width="30" height="30">
+           alt="Cucumber" width="35" height="35">
       <!-- Appium -->
       <img src="https://devicons.io/devicons/icons/appium.svg"
-           alt="Appium" width="30" height="30">
+           alt="Appium" width="35" height="35">
     </td>
     <!-- COLUNA 3: API, CARGA E DADOS -->
     <td align="center" valign="top" width="20%">
