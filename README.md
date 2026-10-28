@@ -97,9 +97,6 @@ Tenho prática em atividades de criação e execução de testes, automação de
       <!-- Codex -->
       <img src="https://devicons.io/devicons/icons/codex-icon.svg"
            alt="Codex" width="30" height="30">
-      <!-- Ollama -->
-      <img src="https://devicons.io/devicons/icons/ollama-icon.svg"
-           alt="Ollama" width="30" height="30">
       <!-- Gemini Notebook -->
       <img src="https://devicons.io/devicons/icons/google-notebooklm-icon.svg"
            alt="Gemini Notebook" width="30" height="30">
